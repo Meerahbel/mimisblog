@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/images/food.jpg",
+    "title": "Minna protest rattles Tinubu administration, President gives orders on food prices",
+    "sub": "The government is very concerned about what Nigerians are going through, especially what happened in Minna yesterday.",
+    "tag": "Food"
+  },
+  {
+    "image": "/images/sport.jpg",
+    "title": "Afcon 2023: Nigeria captain William Troost-Ekong dreams of lifting trophy",
+    "sub": "Nigeria captain William Troost-Ekong says lifting the Africa Cup of Nations trophy would be an 'amazing' moment for him and the country.",
+    "tag": "Sports"
+  },
+  {
+    "image": "/images/Music.jpg",
+    "title": "Wizkid my biggest influence – Shallipopi",
+    "sub": "Popular singer, Crown uzama, aka Shallipopi, has revealed that Grammy-winning singer, Wizkid is his biggest musical influence.",
+    "tag": "Music"
+  },
+  {
+    "image": "/images/vogue.jpeg",
+    "title": "British Vogue features 40 ‘legendary’ cover stars for editor Edward Enninful’s final issue",
+    "sub": "For British Vogue’s final issue under Edward Enninful, the outgoing editor-in-chief put not one superstar on the cover, but 40 of them.",
+    "tag": "Fashion"
+  }
+]
